@@ -1,3 +1,10 @@
  my file for git
 
 my Second file for git
+
+
+
+
+new line on new file
+
+my third commit
